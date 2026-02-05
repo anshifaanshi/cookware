@@ -9,27 +9,27 @@ export default function OurLatestCreation() {
 
     const sectionData = [
         {
-            title: "Premium Steel Cookware Set",
+            title: "100% Authentic",
             description:
-                "Crafted from high-grade stainless steel for durability, even heat distribution, and elegant kitchens.",
+                "As an Authorized Dealer, every product comes with a genuine brand warranty and after-sales support..",
             image:
-                "https://i.postimg.cc/43B0XjHt/Cookware-Sets-Walmart-com.jpg",
+                "https://i.postimg.cc/brYX6Nj2/IMG-3812.avif",
             align: "object-center",
         },
         {
-            title: "Non-Stick Frying Collection",
+            title: "Expert Curation",
             description:
-                "Designed for effortless cooking and easy cleaning, perfect for everyday meals with less oil.",
+                "We select only the most efficient "smart" models that fit the modern Indian kitchen.",
             image:
-                "https://i.postimg.cc/nrQSYzRy/Cookware-Sets-and-Pots-Pans-Sets.jpg",
+                "https://i.postimg.cc/J4yYRBKh/IMG-3814.avif",
             align: "object-right",
         },
         {
-            title: "Professional Pots & Pans",
+            title: "The Echo Futur Guarantee",
             description:
-                "Chef-inspired cookware built to handle high heat and deliver consistent, reliable performance.",
+                "Like every Echo Futur company, Compliment is committed to bringing future-ready solutions into your home today",
             image:
-                "https://i.postimg.cc/qM24pMJ1/Amazon-com-Allgetc-Nonstick-Cookware-Pots-and-Pans-Set-16Pcs-Kitchenware-set-with-Frying-Pan-Sauc.jpg",
+                "https://i.postimg.cc/CLf73pLq/IMG-3815.avif",
             align: "object-center",
         },
     ];
