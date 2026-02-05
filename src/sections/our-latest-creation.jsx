@@ -19,7 +19,7 @@ export default function OurLatestCreation() {
         {
             title: "Expert Curation",
             description:
-                "We select only the most efficient "smart" models that fit the modern Indian kitchen.",
+                "We select only the most efficient smartmodels that fit the modern Indian kitchen.",
             image:
                 "https://i.postimg.cc/J4yYRBKh/IMG-3814.avif",
             align: "object-right",
